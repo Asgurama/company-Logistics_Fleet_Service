@@ -1,0 +1,1 @@
+<full content from types.ts above>
