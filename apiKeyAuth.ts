@@ -1,0 +1,1 @@
+<full content from apiKeyAuth.ts above>
